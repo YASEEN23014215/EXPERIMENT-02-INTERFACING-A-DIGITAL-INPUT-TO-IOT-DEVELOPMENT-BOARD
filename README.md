@@ -1,12 +1,7 @@
 # EXPERIMENT-02-INTERFACING-A-DIGITAL-INPUT-OUTPUT-TO-IOT-DEVELOPMENT-BOARD
-
-
 **DATE:** 06/02/2026
-
 **NAME:** Yaseen F
-
 **ROLL NO:** 212223220126
-
 **DEPARTMENT:** INFORMATION TECHNOLOGY
 
 ## Aim
@@ -100,7 +95,6 @@ IR technology is used in a wide range of wireless applications which includes re
 
 
 ## STM 32 CUBE PROGRAM
-
 ```
 /* USER CODE BEGIN Header */
 /**
@@ -326,18 +320,10 @@ void assert_failed(uint8_t *file, uint32_t line)
 }
 #endif /* USE_FULL_ASSERT */
 ```
-
 ## OUTPUT:
 ## RELAY OFF:
 ![IMAGE OFF 2](https://github.com/user-attachments/assets/d19a0e69-5692-43b2-9b41-db234da8f4a6)
-
 ## RELAY ON:
 ![IMAGE ON 2](https://github.com/user-attachments/assets/bccec005-eb80-41bc-805d-6e90554ceaaa)
-
-
-
-
 ## Result:
-
-
 Interfacing a digital Input (ir pair) with ARM microcontroller based IOT development is executed and the results are verified.
